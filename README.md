@@ -24,7 +24,7 @@ The sorter.py looks through your downloads folder, and then creates a couple of 
 * Zips
 <br>
 
-< NOTE: You must change the directory to your downloads folder, not mined
+> Note: You must change the directory to your downloads folder, not mine
 <br>
 
 It uses the extensions file to check where to put the file/folder<br>
