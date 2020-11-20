@@ -8,10 +8,12 @@
   * [Mac](#Mac)
 * [Set-up](#Set-Up)
 * [Usage](#Usage)
+
 <br>
 <br>
+
 ### Intro
-The sorter.py looks through your downloads folder, and then creates a couple of folders in their (If they are not created already)
+The sorter.py looks through your downloads folder, and then creates a couple of folders in their (If they are not created already)<br>
 * Audios
 * Documents
 * Folders
@@ -20,6 +22,9 @@ The sorter.py looks through your downloads folder, and then creates a couple of 
 * Videos
 * Zips
 <br>
+
+< NOTE: You must change the directory to your downloads folder, not mine><br>
+
 It uses the extensions file to check where to put the file/folder<br>
 |MP4  |MP3  |IMAGES  |DOCUMENTS  |ZIPS  |
 |--------------------------------------
