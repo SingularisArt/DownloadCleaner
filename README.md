@@ -1,70 +1,13 @@
-## Title
+# download-cleaner
 
-### Place 1
+<br> 
+<br> 
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+## Content
+* [Installation](###Installation)
+  * [Linux](####Linux)
+  * [Windows](####Windows)
+  * [Mac](####Mac)
 
 <br>
 <br>
@@ -123,8 +66,7 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 <br>
 <br>
 <br>
+<br>
+<br>
 
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-
+#### Installation
