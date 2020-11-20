@@ -88,17 +88,17 @@ git clone https://github.com/nahnah0oss/download-cleaner
 
 Before running this program, you need to type python into your cmd to check if you have it installed.<br>
 If you do, then skip this step <br>
-Else, visit the official [Python](https://www.python.org/) website.<br>
-Navigate to the dowloads directory, and then click the latest version download scroll all the way down and install the executable installer based on your system.<br>
-Run through the installation process.<br>
-After that, go to the cmd prompt and type<br>
+* Visit the official [Python](https://www.python.org/) website.<br>
+* Navigate to the dowloads directory, and then click the latest version download scroll all the way down and install the executable installer based on your system.<br>
+* Run through the installation process.<br>
+* After that, go to the cmd prompt and type<br>
 ```bash
 python --version
 ```
 <br>
 
-If it's greater than version 2, then you are good to go, else, go through the process again.<br>
-The final steps are:
+* If it's greater than version 2, then you are good to go, else, go through the process again.<br>
+* The final steps are:
 ```bash
 cd download-cleaner
 python sorter.py
