@@ -20,11 +20,3 @@
 |Python 3.8   |Yes
 |Python 3.9   |Yes
 
-
-```bash
-sudo apt-get install python3
-```
-
-
-#### Installation
-  * #### Linux
