@@ -67,13 +67,13 @@ Enter your admin password, and wait for the installation to finish.<br>
 
 Once done, run
 ```bash
+pip3 install decouple
 cd download-cleaner
 python3 sorter.py
 ```
 <br>
 
-After that, you will be asked for your email and password.<br>
-After that, it will start to go through your files and folders into your downloads, then you will recieve emails based on what happened.<br>
+You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory.
 
 <br>
 
@@ -89,7 +89,8 @@ git clone https://github.com/nahnah0oss/download-cleaner
 Before running this program, you need to type python into your cmd to check if you have it installed.<br>
 If you do, then skip this step <br>
 * Visit the official [Python](https://www.python.org/) website.<br>
-* Navigate to the dowloads directory, and then click the latest version download scroll all the way down and install the executable installer based on your system.<br>
+* Navigate to the dowloads directory, and then click the latest version download.<br>
+* Scroll all the way down and install the executable installer based on your system.<br>
 * Run through the installation process.<br>
 * After that, go to the cmd prompt and type<br>
 ```bash
@@ -100,9 +101,10 @@ python --version
 * If it's greater than version 2, then you are good to go, else, go through the process again.<br>
 * The final steps are:
 ```bash
+pip install decouple
 cd download-cleaner
 python sorter.py
 ```
 <br>
 
-You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory
+You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory.
