@@ -65,11 +65,19 @@ sudo apt-get install python3
 
 Enter your admin password, and wait for the installation to finish.<br>
 
-Once done, run
+If you have an email, then run:<br>
 ```bash
 pip3 install decouple
 cd download-cleaner
-python3 sorter.py
+python3 sorterEmail.py
+```
+<br>
+
+Else, run:
+```bash
+pip3 install decouple
+cd download-cleaner
+python3 sorterNoEmail.py
 ```
 <br>
 
@@ -100,10 +108,19 @@ python --version
 
 * If it's greater than version 2, then you are good to go, else, go through the process again.<br>
 * The final steps are:
+    * If you have an email, then run<br>
 ```bash
-pip install decouple
+pip3 install decouple
 cd download-cleaner
-python sorter.py
+python3 sorterEmail.py
+```
+<br>
+
+  * Else, run:
+```bash
+pip3 install decouple
+cd download-cleaner
+python3 sorterNoEmail.py
 ```
 <br>
 
