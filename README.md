@@ -1,4 +1,35 @@
 # download-cleaner
 
 ## INSTALLATION:
-  * [LINUX](https://google.com)
+  * [LINUX](#aa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [aa](https://github.com/nahnah0oss/download-cleaner)
