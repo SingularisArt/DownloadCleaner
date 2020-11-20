@@ -2,7 +2,7 @@
 
 ## Table of Content
 * [Intro](#Intro)
-* [Install](#Install)
+* [Installation](#Installation)
   * [Linux](#Linux)
   * [Windows](#Windows)
   * [Mac](#Mac)
@@ -45,4 +45,38 @@ You can always modify/add/subtract any of these extensions from the Extensions.j
 <br>
 <br>
 
+
+### Installation
+
+<br>
+
+#### Linux
+
+You need to clone this repo into your designated location <br>
+```bash
+git clone https://github.com/nahnah0oss/download-cleaner
+```
+
+<br>
+
+Before running this program, you need to type python3 into your terminal to check if you have it installed.<br>
+If you do, then skip this step <br>
+Else, run <br>
+
+```bash
+sudo apt-get install python3
+```
+<br>
+
+Enter your admin password, and wait for the installation to finish.<br>
+
+Once done, run
+```bash
+cd download-cleaner
+python3 sorter.py
+```
+<br>
+
+Once done, you will be asked for your email and password.<br>
+After that, it will start to go through your files and folders into your downloads, then you will recieve emails based on what happened.<br>
 
