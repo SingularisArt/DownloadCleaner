@@ -1,7 +1,7 @@
 # download-cleaner
 
 ## Content:
-  * [Installation](##Installation)
+  * [Installation](###Installation)
     * [Linux](#Linux)
     * [Windows](#Windows)
     * [Mac](#Mac)
