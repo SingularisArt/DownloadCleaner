@@ -5,9 +5,6 @@
 * [Installation](#Installation)
   * [Linux](#Linux)
   * [Windows](#Windows)
-  * [Mac](#Mac)
-* [Set-up](#Set-Up)
-* [Usage](#Usage)
 
 <br>
 <br>
@@ -48,8 +45,6 @@ You can always modify/add/subtract any of these extensions from the Extensions.j
 
 ### Installation
 
-<br>
-
 #### Linux
 
 You need to clone this repo into your designated location <br>
@@ -61,7 +56,7 @@ git clone https://github.com/nahnah0oss/download-cleaner
 
 Before running this program, you need to type python3 into your terminal to check if you have it installed.<br>
 If you do, then skip this step <br>
-Else, run <br>
+Else, run in your terminal:<br>
 
 ```bash
 sudo apt-get install python3
@@ -77,6 +72,48 @@ python3 sorter.py
 ```
 <br>
 
-Once done, you will be asked for your email and password.<br>
+After that, you will be asked for your email and password.<br>
 After that, it will start to go through your files and folders into your downloads, then you will recieve emails based on what happened.<br>
+
+<br>
+
+#### Windows
+
+You need to clone this repo into your designated location <br>
+```bash
+git clone https://github.com/nahnah0oss/download-cleaner
+```
+
+<br>
+
+Before running this program, you need to type python into your cmd to check if you have it installed.<br>
+If you do, then skip this step <br>
+Else, visit the official (Python)[https://www.python.org/] website.<br>
+You should see something like !(This)[images/websiteLogo.png]<br>
+If you do, navigate to the dowloads directory, and then click the latest version download scroll all the way down and install the executable installer based on your system.<br>
+Run through the installation process.<br>
+After that, go to the cmd prompt and type<br>
+```bash
+python --version
+```
+<br>
+
+If it's greater than version 2, then you are good to go, else, go through the process again.<br>
+The final steps are:
+```bash
+cd download-cleaner
+python sorter.py
+```
+<br>
+
+You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+Author: Hashem A. Damrah
 
