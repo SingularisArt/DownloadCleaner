@@ -1,4 +1,5 @@
 .gitignore
+/images/websiteLogo.png
 /.git/*
 /.idea/*
 /__pycache__/*
