@@ -1,7 +1,7 @@
 # download-cleaner
 
 ## Content:
-  * [Installation](###Installation)
+  * [Installation](https://github.com/nahnah0oss/download-cleaner###Installation)
     * [Linux](#Linux)
     * [Windows](#Windows)
     * [Mac](#Mac)
