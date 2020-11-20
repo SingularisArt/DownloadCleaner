@@ -13,7 +13,7 @@
 
 
 ## Intro
-This download cleaning project cleans out your downloads folder
+This download cleaning project cleans out your downloads folder<br>
 NOTE: YOU MUST CHANGE THE PATH TO THE DOWNLOADS DIRECTORY IN THE SORTER.PY
 It creates a couple of folders in the downloads folder
 * Audios
@@ -29,6 +29,7 @@ After doing that, it catagorizes the items accordingly
 ## Usage
 You must clone this repository to your computer, and then just run<br>
 ```bash
+cd download-cleaner
 python3 sorter.py
 ```
 
