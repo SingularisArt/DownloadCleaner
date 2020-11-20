@@ -81,7 +81,7 @@ python3 sorterNoEmail.py
 ```
 <br>
 
-You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory.
+## You are done mister, go and enjoy a clean downloads folder
 
 <br>
 
@@ -124,4 +124,4 @@ python3 sorterNoEmail.py
 ```
 <br>
 
-You will be asked for your email and password, (if you don't have an email, run the sorterNoEmail.py) then it will start to clean up your downloads directory.
+## You are done mister, go and enjoy a clean downloads folder
