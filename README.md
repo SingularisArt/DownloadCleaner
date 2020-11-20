@@ -81,8 +81,6 @@ python3 sorterNoEmail.py
 ```
 <br>
 
-## You are done mister, go and enjoy a clean downloads folder
-
 <br>
 
 #### Windows
