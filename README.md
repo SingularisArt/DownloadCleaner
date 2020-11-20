@@ -27,7 +27,7 @@ The sorter.py looks through your downloads folder, and then creates a couple of 
 
 It uses the extensions file to check where to put the file/folder<br>
 |MP4  |MP3  |IMAGES  |DOCUMENTS  |ZIPS  |
-|---------------------------------------|
+|-----|-----|--------|-----------|------|
 |mp4  |mp3  |png     |doc        |zip   |
 |3gb  |3ga  |gif     |txt        |war   |
 |0gg  |abc  |jpg     |odt        |tar   |
