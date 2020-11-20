@@ -12,6 +12,7 @@
 <br>
 <br>
 
+
 ### Intro
 The sorter.py looks through your downloads folder, and then creates a couple of folders in their (If they are not created already)<br>
 * Audios
@@ -23,7 +24,8 @@ The sorter.py looks through your downloads folder, and then creates a couple of 
 * Zips
 <br>
 
-< NOTE: You must change the directory to your downloads folder, not mine><br>
+< NOTE: You must change the directory to your downloads folder, not mined
+<br>
 
 It uses the extensions file to check where to put the file/folder<br>
 |MP4  |MP3  |IMAGES  |DOCUMENTS  |ZIPS  |
@@ -35,6 +37,12 @@ It uses the extensions file to check where to put the file/folder<br>
 |flv  |ac3  |pdf     |rtf        |iso   |
 |avi  |wav  |eps     |tex        |dep   |
 |wmv  |wmv  |bmp     |wpd        |exe   |
+
+<br>
+
 You can always modify/add/subtract any of these extensions from the Extensions.json
+
+<br>
+<br>
 
 
