@@ -1,69 +1,14 @@
-# download-cleaner
+## Title
 
-## Content:
-  * [Installation](https://github.com/nahnah0oss/download-cleaner###Installation)
-    * [Linux](#Linux)
-    * [Windows](#Windows)
-    * [Mac](#Mac)
-  * [Usage](#Usage)
+### Place 1
 
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-# F
-### Installation
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
+
