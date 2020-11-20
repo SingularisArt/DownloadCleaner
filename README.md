@@ -4,10 +4,10 @@
 <br> 
 
 ## Content
-* [Installation](###Installation)
-  * [Linux](####Linux)
-  * [Windows](####Windows)
-  * [Mac](####Mac)
+* [Installation](#Installation)
+  * [Linux](#Linux)
+  * [Windows](#Windows)
+  * [Mac](#Mac)
 
 <br>
 <br>
