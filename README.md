@@ -39,6 +39,6 @@ You must have python3 installed.
 just do a git clone.
 
 ```bash
-git clone https://github.com/SingularisArt/DownloadCleaner
+git clone https://github.com/SingularisArt/DownloadCleaner.git
 ```
 
